@@ -1,4 +1,24 @@
-# React + Vite
+# React Acme Analytics Demo
+
+A demo analytics dashboard built with React and Vite.
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+The app will be available at http://localhost:15173
+
+## Available Scripts
+
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
+
+## About
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
