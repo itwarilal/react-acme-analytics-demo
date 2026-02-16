@@ -153,7 +153,7 @@ export default function Contact() {
             {/* Contact Info */}
             <div className="space-y-8">
               <div className="bg-gray-50 rounded-xl p-6">
-                <h3 className="text-lg font-semibold text-gray-900 mb-4">Contact Information</h3>
+                <h3 className="text-lg font-semibold text-gray-900 mb-4">How to Contact?</h3>
                 <div className="space-y-4">
                   <div className="flex items-start space-x-3">
                     <svg className="w-6 h-6 text-primary-600 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
