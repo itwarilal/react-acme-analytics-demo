@@ -52,7 +52,7 @@ export default function Header() {
           </div>
           <div className="hidden md:flex items-center space-x-4">
             <Link to="/settings" className="text-gray-600 hover:text-gray-900 transition-colors">Login</Link>
-            <Link to="/contact" className="bg-primary-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors">Get Started</Link>
+            <Link to="/contact" className="bg-primary-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-primary-700 transition-colors">Get Free Trial</Link>
           </div>
           <button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="md:hidden p-2 rounded-lg hover:bg-gray-100">
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
