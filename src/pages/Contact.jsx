@@ -76,7 +76,7 @@ export default function Contact() {
             {/* Contact Form */}
             <div className="lg:col-span-2">
               <div className="bg-white rounded-2xl border border-gray-200 p-8">
-                <h2 className="text-2xl font-bold text-gray-900 mb-6">Send us a Message</h2>
+                <h2 className="text-2xl font-bold text-gray-900 mb-6">Contact Us</h2>
                 <form onSubmit={submitForm} className="space-y-6">
                   <div className="grid md:grid-cols-2 gap-6">
                     <div>
